@@ -87,8 +87,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="51" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="50" />
     <option name="y" value="55" />
     <option name="width" value="1875" />
     <option name="height" value="990" />
@@ -157,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.utils">
+  <component name="RunManager" selected="Python.run_suite">
     <configuration name="run_suite" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="day0608ihrm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -244,10 +244,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.run_suite" />
         <item itemvalue="Python.utils" />
         <item itemvalue="Python tests.Unittests for test_ihrm_login.TestIHRMLogin" />
         <item itemvalue="Python tests.Unittests for test_ihrm_employee.TestIHRMEmp" />
-        <item itemvalue="Python.run_suite" />
         <item itemvalue="Python tests.Unittests for test_ihrm_employee.TestIHRMEmp.test_01_login_success" />
       </list>
     </recent_temporary>
